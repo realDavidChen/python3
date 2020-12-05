@@ -47,4 +47,8 @@ $ pip install kivy==1.11.1
 
 $ conda list --explicit
 
+export explicit to txt file
+
+$ conda list --explicit > py3.6_reqs.txt
+
 ##
