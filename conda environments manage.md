@@ -23,14 +23,23 @@ $ exit()
 >exit
 
 ## packages manages, list\search\and install, example:
+
 **package list**
+
 $ conda list
+
 **search pages**
+
 $ conda search kivy
+
 or 
+
 $ pip search kivy
+
 > note: pip can get more package
+
 **install package**
+
 $ pip install kivy==1.11.1
 
 
