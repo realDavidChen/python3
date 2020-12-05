@@ -1,6 +1,10 @@
-#onda environments manage
+# conda environments manage
 
-## how to create conda env
+## create conda new environments
 ```
 $ conda create --name py36 python=3.6 pip numpy
 ```
+## conda env list
+```
+$ conda env list
+
