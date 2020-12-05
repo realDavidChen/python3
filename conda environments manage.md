@@ -68,3 +68,8 @@ $ conda activate project2
 $ conda list
 
 you can see the same package list in the project2
+
+## conda remove env
+
+$ conda env list
+conda remove -n *** --all
