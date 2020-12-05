@@ -22,3 +22,8 @@ $ exit()
 ```
 >exit
 
+## check package explicit link
+```
+$ conda list --explicit
+```
+##
