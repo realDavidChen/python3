@@ -43,7 +43,9 @@ $ pip search kivy
 $ pip install kivy==1.11.1
 
 
-## check package explicit link
+## copy project env
+
+### 1.check package explicit link
 
 $ conda list --explicit
 
@@ -51,4 +53,18 @@ export explicit to txt file
 
 $ conda list --explicit > py3.6_reqs.txt
 
-##
+### 2. create new project and copy explicit package list
+
+$ conda deactivate
+
+$ conda create -n project2 --file py3.6_reqs.txt
+
+$ conda env list
+
+new env: project2 in list
+
+$ conda activate project2
+
+$ conda list
+
+you can see the same package list in the project2
