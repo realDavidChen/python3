@@ -7,7 +7,7 @@ $ conda create --name py36 python=3.6 pip numpy
 ## conda env list
 ```
 $ conda env list
-
+```
 ## activate env
 ```
 $ conda activate py36
