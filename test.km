@@ -1,0 +1,97 @@
+{
+    "root": {
+        "data": {
+            "id": "c7l1i1e5ycg0",
+            "created": 1607190548975,
+            "text": "hello world",
+            "expandState": "expand"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "c7l1i9vfbr40",
+                    "created": 1607190567433,
+                    "text": "gfdgdfgdf",
+                    "priority": 2,
+                    "expandState": "expand"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "c7l1kuy68ts0",
+                            "created": 1607190770040,
+                            "text": "how todo",
+                            "expandState": "expand"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "c7l1kymt2og0",
+                                    "created": 1607190778060,
+                                    "text": "sdfsfsdfsdsd",
+                                    "expandState": "expand",
+                                    "progress": 6,
+                                    "resource": [
+                                        "sadxdcx"
+                                    ]
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "c7l1l2bpnj40",
+                                            "created": 1607190786096,
+                                            "text": "dfsds",
+                                            "expandState": "expand"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "c7l1l5jasqg0",
+                                            "created": 1607190793085,
+                                            "text": "dsdsf",
+                                            "expandState": "expand",
+                                            "progress": 9
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "c7l1l6ztmy80",
+                                            "created": 1607190796261,
+                                            "text": "dsfsdf",
+                                            "expandState": "expand",
+                                            "progress": 7
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "c7l1l7wvl5s0",
+                                            "created": 1607190798260,
+                                            "text": "topic",
+                                            "expandState": "expand"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "c7l1idm1qz40",
+                            "created": 1607190575573,
+                            "text": "topic",
+                            "expandState": "expand"
+                        },
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    "template": "structure",
+    "theme": "fresh-blue",
+    "version": "1.4.43"
+}
