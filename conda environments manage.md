@@ -12,15 +12,15 @@ $ conda env list
 
 $ conda activate py36
 
-> you will see: (py36)$  in terminal
+ you will see: (py36)$  in terminal
 
 $ python 
 
-> into conda python 3.6 env
+ into conda python 3.6 env
 
 $ exit()  
 
->exit
+exit
 
 ## packages manages, list\search\and install, example:
 
