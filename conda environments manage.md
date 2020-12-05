@@ -36,7 +36,7 @@ or
 
 $ pip search kivy
 
-> note: pip can get more package
+ note: pip can get more package
 
 **install package**
 
