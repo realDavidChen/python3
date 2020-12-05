@@ -63,6 +63,8 @@ $ conda env list
 
 new env: project2 in list
 
+$ get help
+
 $ conda activate project2
 
 $ conda list
@@ -72,4 +74,15 @@ you can see the same package list in the project2
 ## conda remove env
 
 $ conda env list
-conda remove -n *** --all
+$ conda remove -n *** --all
+
+## get help
+
+conda -h
+
+**More specific help**
+
+$ conda create -h
+
+$ conda remove -h
+
