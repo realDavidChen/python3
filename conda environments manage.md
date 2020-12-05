@@ -14,7 +14,11 @@ $ conda activate py36
 ```
 > you will see: (py36)$  in terminal
 ```
-$ python #into conda python 3.6 env
-$ exit()  #exit
+$ python 
 ```
+> into conda python 3.6 env
+```
+$ exit()  
+```
+>exit
 
