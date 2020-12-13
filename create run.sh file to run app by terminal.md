@@ -29,7 +29,7 @@ uvicorn server:app
 
 $ chmod +x run.sh
 
-### 4. running server.py
+### 4. running run.sh
 
 $ ./run.sh
 
