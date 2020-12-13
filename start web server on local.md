@@ -8,7 +8,7 @@
  ```
  
  
-### 2. cd to current path:web-dev and type:
+### 2. cd to current path:web-dev and in terminal type:
 
   $  python3 -m http.server
 
