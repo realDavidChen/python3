@@ -1,6 +1,6 @@
 ## create run.sh file to run app by terminal
 
-### create app.py like:
+### 1.create server.py like:
 ```
 from flask import Flask
 
@@ -19,7 +19,25 @@ def hello_world():
 
 
 
-1. create run.sh and add content:
+### 2. create run.sh and add content:
 ```
-uvicorn server
+uvicorn server:app
+
+```
+
+### 3. add execution authority to run.sh
+
+$ chmod +x run.sh
+
+### 4. running server.py
+
+$ ./run.sh
+
+or
+
+$ bash run.sh
+
+### check browser
+
+in browser open http://127.0.0.1:8000 if seccessd, browser will show content
 
