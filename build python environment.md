@@ -14,3 +14,8 @@ if you using windows sys: $ pipenv shell --python c:\Python38    etc.
 
 $ pipenv install flask gunicorn fastapi
 
+
+### start pipenv
+
+$ pipenv shell
+
