@@ -15,7 +15,7 @@
 Serving HTTP on 0.0.0.0 port 8000 (http://0.0.0.0:8000/) ...
 
 
- 2. open browswer open: 127.0.0.1:8000 or localhost:8000
+ 3. open browswer open: 127.0.0.1:8000 or localhost:8000
 
   if sucessed, the page will show:
   
