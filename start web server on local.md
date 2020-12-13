@@ -2,20 +2,28 @@
 
 
 
- 1. terminal cd to current path and type:
+ 1. create a  folder name: web-dev and buiding index.html page
+ ```
+ <p> python3 web page server test </P>
+ ```
+ 
+ 
+ 2. cd to current path:web-dev and type:
 
   $  python3 -m http.server
 
 Serving HTTP on 0.0.0.0 port 8000 (http://0.0.0.0:8000/) ...
 
 
-2. open browswer
+2. open browswer open: 127.0.0.1:8000 or localhost:8000
+
+  if sucessed, the page will show:
+  
+      python3 web page server test
 
 
 
 
 
 
-1. sdfsdf
-2. sdfsd
-3. sdfsdf
+
