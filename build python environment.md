@@ -14,6 +14,10 @@ if you using windows sys: $ pipenv shell --python c:\Python38    etc.
 
 $ pipenv install flask gunicorn fastapi
 
+### check pip freeze
+
+$ pip freeze
+
 
 ### start pipenv
 
