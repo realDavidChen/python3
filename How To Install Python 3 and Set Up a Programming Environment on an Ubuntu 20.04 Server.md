@@ -64,6 +64,8 @@ $ pip list
 创建一个实例 app.py
 新建 app.py 在内容中输入：
 
+```
+
 from flask import Flask
 app = Flask(__name__)
 
@@ -76,6 +78,7 @@ def hello_world():
 if __name__ == '__main__':
     app.run(debug=True)
 
+```
 
 $ source venv/bin/activate
 
