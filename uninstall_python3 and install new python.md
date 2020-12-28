@@ -1,7 +1,7 @@
 ## uninstall_python3 and install new python
 
-*recommend using virtualenv, and never modifying the system python, except to install pip and virtualenv if necessary.
-As was alluded to above, many OSes count on having a working python2 in order to function*
+**recommend using virtualenv, and never modifying the system python, except to install pip and virtualenv if necessary.
+As was alluded to above, many OSes count on having a working python2 in order to function
 
 
 $ apt-get remove python3
