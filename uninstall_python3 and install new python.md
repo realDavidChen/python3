@@ -11,6 +11,7 @@ $ apt-get install python3
 $ pip3 install virtualenv
 
 $ virtualenv -p python3 venv
+
 $ . venv/bin/activate
 
 now you are in a nice python3 world, completely isolated from system python
