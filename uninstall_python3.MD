@@ -4,7 +4,7 @@ ls /usr/bin/python*
 sudo apt-get remove python3.5
 
 ## plus it's dependent packages
-sudo apt-get remove --auto-remove python3.5
+[!!!Don't use, System will be destroyed ]sudo apt-get remove --auto-remove python3.5
 
 ## plus configuration and/or data files of python3
 sudo apt-get purge python3.5
