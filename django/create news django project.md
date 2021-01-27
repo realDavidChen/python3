@@ -68,6 +68,16 @@ all seting is finish, now open the browser , and type http://localhost:8000
 
 ## add apps inner myproject 
 
+$ cd myproject
+
+$ ls
+
+> in the folder ,include manage.py file. 
+
+$ python manage.py
+
+> you can get manage.py commends
+
 
  $ python manage.py startapp admin
 
