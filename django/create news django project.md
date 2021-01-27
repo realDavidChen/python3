@@ -124,7 +124,7 @@ Available subcommands:
     findstatic
     runserver
     
-    ```
+```
 
 $ python manage.py startapp admin
 
