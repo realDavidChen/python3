@@ -6,6 +6,8 @@ $ mkdir django
 
 $ code django
 
+> open the folder in vs code
+
 $ pipenv install -e .
 
 $ pipenv shell
