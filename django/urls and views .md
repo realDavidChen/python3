@@ -72,13 +72,14 @@ def blog(request):
  
  ```
 
-## 3 run server
+## 3 test urls and run server
 
 $ python manage.py runserver
 
 open browser, and test it:
 
 http://localhost:8000/products
+
 http://localhost:8000/blog
 
 ### >> get django-admin help
