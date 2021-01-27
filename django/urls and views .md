@@ -4,6 +4,6 @@ $ django-admin startproject myproject
 ```
 myproject:
 |--|--manage.py 
-|--myproject( this folder for app global settings)/urls.py
+|--myproject( this-folder-for-app-global-settings)/urls.py
 
 ```
