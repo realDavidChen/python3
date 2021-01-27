@@ -78,6 +78,7 @@ $ python manage.py
 
 > you can get manage.py commends and help
 
+
 ```
 Type 'manage.py help <subcommand>' for help on a specific subcommand.
 
