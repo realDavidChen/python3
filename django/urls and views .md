@@ -81,7 +81,7 @@ open browser, and test it:
 http://localhost:8000/products
 http://localhost:8000/blog
 
-get django-admin help
+### >> get django-admin help
 
 $ django-admin
 
