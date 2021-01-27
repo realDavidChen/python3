@@ -125,6 +125,7 @@ Available subcommands:
     runserver
     
 ```
+### add admin page
 
 $ python manage.py startapp admin
 
