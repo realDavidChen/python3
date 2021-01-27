@@ -12,6 +12,8 @@ $ pipenv install -e .
 
 $ pipenv shell
 
+$ pip list
+
 $ pip install django
   
 ## start django project
