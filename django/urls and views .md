@@ -72,7 +72,7 @@ def blog(request):
  
  ```
 
-## 3 test urls and run server
+## 3.test urls and run server
 
 $ python manage.py runserver
 
