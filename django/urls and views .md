@@ -72,4 +72,49 @@ def blog(request):
  
  ```
 
+## 3 run server
 
+$ python manage.py runserver
+
+open browser, and test it:
+
+http://localhost:8000/products
+http://localhost:8000/blog
+
+get django-admin help
+
+$ django-admin
+
+```
+
+Type 'django-admin help <subcommand>' for help on a specific subcommand.
+
+Available subcommands:
+
+[django]
+    check
+    compilemessages
+    createcachetable
+    dbshell
+    diffsettings
+    dumpdata
+    flush
+    inspectdb
+    loaddata
+    makemessages
+    makemigrations
+    migrate
+    runserver
+    sendtestemail
+    shell
+    showmigrations
+    sqlflush
+    sqlmigrate
+    sqlsequencereset
+    squashmigrations
+    startapp
+    startproject
+    test
+    testserver
+
+```
