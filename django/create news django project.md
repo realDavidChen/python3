@@ -66,17 +66,29 @@ $ python manage.py runserver
 all seting is finish, now open the browser , and type http://localhost:8000
 
 
-## add apps inner myproject 
+## add apps inner myproject and runserver
 
 $ cd myproject
 
-$ ls
 
-> in the folder ,include manage.py file. 
 
-$ python manage.py
+$ django-admin startapp admin
+
+
+## start run app server
+
+$ python manage.py runserver
+
+> now you can visit http://localhost:8000/admin
+
+
+
+
+
 
 > you can get manage.py commends and help
+
+$ python manage.py
 
 
 ```
@@ -125,12 +137,3 @@ Available subcommands:
     runserver
     
 ```
-### add admin page
-
-$ python manage.py startapp admin
-
-> now you can visit http://localhost:8000/admin
-
-add more app like this:
-
-$ python manage.py startapp blog
