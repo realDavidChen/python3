@@ -125,8 +125,7 @@ Available subcommands:
     
     ```
 
-
- $ python manage.py startapp admin
+$ python manage.py startapp admin
 
 > now you can visit http://localhost:8000/admin
 
