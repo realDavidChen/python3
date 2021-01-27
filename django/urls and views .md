@@ -37,4 +37,22 @@ myproject:
 
 ```
 
+ in home/ folder, add new file: urls.py and add content like this:
+ 
+ ```
+from django.urls import path
+from . import views
+
+
+
+urlpatterns = [
+    path('', views.home),
+    path('products/', views.products),
+    path('blog/', views.blog),
+   
+    
+]
+ 
+ ```
+
 
