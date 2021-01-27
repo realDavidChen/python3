@@ -37,13 +37,11 @@ myproject:
 
 ```
 
- in home/ folder, add new file: urls.py and add content like this:
+ in home/ folder, add new file: urls.py and add content:
  
  ```
 from django.urls import path
 from . import views
-
-
 
 urlpatterns = [
     path('', views.home),
@@ -52,6 +50,25 @@ urlpatterns = [
    
     
 ]
+ 
+ ```
+ 
+ in home/views.py add content:
+ 
+ 
+ ```
+ 
+ from django.shortcuts import render
+from django.http import HttpResponse
+
+# Create your views here.
+
+def home(request):
+    return HttpResponse('home')
+def products(request):
+    return HttpResponse('products')
+def blog(request):
+    return HttpResponse('blog')
  
  ```
 
