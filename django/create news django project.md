@@ -4,7 +4,7 @@
 
 $ mkdir django
 
-$ cd django
+$ code django
 
 $ pipenv install -e .
 
