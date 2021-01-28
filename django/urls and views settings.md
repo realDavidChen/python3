@@ -19,7 +19,7 @@ templates
   |----blog.html
 
 ```
-> please follow under 3 step to config
+> please follow under 3 step to config urls
 
 ### 1. myproject(settings.py urls.py)
           
