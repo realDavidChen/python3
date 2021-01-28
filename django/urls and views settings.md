@@ -48,6 +48,34 @@ urlpatterns = [
 
 ```
 
+### 2. home(urls.py views.py)
+
+urls.py
+
+```
+from django.urls import path, include
+from . import views
+
+urlpatterns = [
+    path('', views.home, name='home')
+]
+```
+views.py
+
+```
+from django.shortcuts import render
+from django.http import HttpResponse
+
+# Create your views here.
+
+def home(request):
+    return render(request, 'home.html')
+
+
+```
+
+
+
 
 ================================================================================
 ================================================================================
