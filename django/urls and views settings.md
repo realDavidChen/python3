@@ -73,7 +73,14 @@ def home(request):
 
 
 ```
+### 3 templates
 
+home.html
+```
+<h1>this is home page</h1>
+```
+
+or create any page you want, like: blog.html, products.html etc.
 
 
 
