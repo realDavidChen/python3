@@ -2,7 +2,7 @@
 ![](https://raw.githubusercontent.com/realDavidChen/python3/main/django/images/Controller-in-Django.png)
 
 
-# method one: link to templates folder
+# method one(recommend): link to templates folder
 
 
 ## Basic sctructure map
