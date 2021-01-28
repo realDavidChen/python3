@@ -5,7 +5,7 @@
 # method one: link to templates folder
 
 
-## basic sctructure
+## Basic sctructure map
 
 ```
 myproject
@@ -48,7 +48,8 @@ urlpatterns = [
 ```
 
 
-===============================
+================================================================================
+================================================================================
 
 # method two: link url to element, page etc:
 
