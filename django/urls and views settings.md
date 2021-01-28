@@ -9,7 +9,7 @@
 
 ```
 myproject
-  |---settings
+  |---settings.py
   |---urls.py
 home
   |---urls.py
@@ -19,7 +19,19 @@ templates
   |----blog.html
 
 ```
+1. myproject folder:
 
+settings.py
+
+```
+
+TEMPLATES = [
+    {    
+    'DIRS': ['templates'],  
+    },
+    ]
+
+```
 
 
 
