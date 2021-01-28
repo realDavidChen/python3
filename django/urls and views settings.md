@@ -2,6 +2,15 @@
 ![](https://raw.githubusercontent.com/realDavidChen/python3/main/django/images/Controller-in-Django.png)
 
 
+# method one: link to templates
+
+
+
+
+
+===============================
+
+# method two: link url to element, page etc:
 
 ## 1. create new django project
 $ django-admin startproject myproject
