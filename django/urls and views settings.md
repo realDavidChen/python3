@@ -89,7 +89,7 @@ or create any page you want, like: blog.html, products.html etc.
 ================================================================================
 ================================================================================
 
-# method two: link url to element, page etc:
+# method two: link url to models
 
 ## 1. create new django project
 $ django-admin startproject myproject
