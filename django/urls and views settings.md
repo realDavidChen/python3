@@ -1,3 +1,8 @@
+
+
+
+
+
 ## 1. create new django project
 $ django-admin startproject myproject
 > you can see the myproject inner include:
