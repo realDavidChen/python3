@@ -2,8 +2,23 @@
 ![](https://raw.githubusercontent.com/realDavidChen/python3/main/django/images/Controller-in-Django.png)
 
 
-# method one: link to templates
+# method one: link to templates folder
 
+
+## basic sctructure
+
+```
+myproject
+  |---settings
+  |---urls.py
+home
+  |---urls.py
+  |---views.py
+templates
+  |----home.html
+  |----blog.html
+
+```
 
 
 
