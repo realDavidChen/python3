@@ -1,5 +1,5 @@
 
-[](https://raw.githubusercontent.com/realDavidChen/python3/main/django/images/Controller-in-Django.png)
+![](https://raw.githubusercontent.com/realDavidChen/python3/main/django/images/Controller-in-Django.png)
 
 
 
