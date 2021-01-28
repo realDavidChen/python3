@@ -19,7 +19,8 @@ templates
   |----blog.html
 
 ```
-### 1. myproject folder:
+### 1. myproject
+          |
 
 settings.py
 
