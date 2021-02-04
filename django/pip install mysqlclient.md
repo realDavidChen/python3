@@ -1,7 +1,7 @@
 ## build basic env 
 
 
-### 1. linux system(ubuntu system select 1.1)
+### 1. linux system select
 
 1.1 For UBUNTU or Debian
 
