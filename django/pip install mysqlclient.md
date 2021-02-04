@@ -1,4 +1,4 @@
-## basic env 
+## build basic env 
 
 
 ### 1. linux system(ubuntu system select 1.1)
