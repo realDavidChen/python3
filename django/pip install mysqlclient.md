@@ -1,6 +1,6 @@
 You may need to install the Python 3 and MySQL development headers and libraries like so: 
 
-## linux system(ubuntu system select 1.1)
+## 1. linux system(ubuntu system select 1.1)
 
 1.1 For UBUNTU or Debian
 
