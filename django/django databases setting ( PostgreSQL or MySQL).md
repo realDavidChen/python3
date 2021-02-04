@@ -1,6 +1,6 @@
 # django databases setting ( PostgreSQL or MySQL)
 
-## django + MySQL
+## one => django + MySQL
 
 ## build basic env 
 
