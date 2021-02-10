@@ -63,3 +63,12 @@ exit
 ```
 pipenv run *
 ```
+
+
+## error solution
+
+### pipenv shell not working
+
+```
+pip install -U virtualenv
+```
